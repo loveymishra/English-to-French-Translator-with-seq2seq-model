@@ -1,4 +1,8 @@
 # Simple English-to-French Translator
+
+# For full step by step code tutorial
+Read My Article 👉 https://medium.com/@loveymishra60/building-a-simple-english-to-french-translator-with-deep-learning-920f41c66a6b
+
 Machine translation is an exciting field in deep learning, enabling computers to automatically convert text from one language to another. In this tutorial, we’ll walk through the process of building a simple English-to-French translator using GRU. We’ll use Keras and TensorFlow to create a sequence-to-sequence (seq2seq) model with Gated Recurrent Units (GRU). By the end, you’ll know how to preprocess text data, build and train a neural network for translation, and use it to translate new sentences.
 
 # Features
